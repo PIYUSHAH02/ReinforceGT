@@ -5,3 +5,10 @@ The goal of this project is to explore and implement game-theoretic extensions i
 - Recruitment Task: [link](Recruitment-Task/) 
 - Project Proposal: [link](Week-0/)
 - Week 1: [link](Week-1/)
+
+#### Mentors:
+- Aayushman Kumar
+- Hardik Tiwari
+- Ikrima Badr
+- Jeevesh Narayan
+- Piyush Kumar
